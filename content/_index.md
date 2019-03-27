@@ -1,27 +1,19 @@
 ---
-title: Home
+title: Dragiction
 ---
 
-# Hello World! (It works!)
+# Dragiction
 
-This are the contents of the Hugo start website front page.
+**Oboznámiť verejnosť o fenoméne Rupaul's Drag Race**
 
-## Something to read: Sonnet LXVI.
+Chcela by som predstaviť užívateľom internetu pojmy drag, drag queen, osobnosť Rupaula a jeho show Drag Race. Na českom webe som našla len veľmi máličko ohľadom tejto témy a preto by som chcela, aby sa ľudia oboznámili aj s takouto, pre niektorých kontroverznou témou - keďže sa jedná väčšinou o mužov z gay kultúry, mužov, ktorí zabávajú ostaných vo výstredných ženských kostýmoch.
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Rada by som predstavila rôznych účastníkov Drag Race, či už víťazov jednotlivých sérií, ale aj iné výrazné osobnosti, ktoré posunuli fenomén drag do súčasnej podoby. Chcela by som, aby sa môj záverečný projekt stal pomyselnou základňou fanúšikov tejto show a spojil tým ľudí s podobným názorom.
+
+
+#### Zdroje
+- https://en.wikipedia.org/wiki/RuPaul
+- https://rupaulsdragrace.fandom.com/wiki/RuPaul%27s_Drag_Race_Wiki
+- https://www.konecteaze.com/drag-race
+
 
