@@ -8,4 +8,5 @@
     <a href="{{ .Permalink }}">{{.Title}}</a> — {{ .Date.Format "January 2, 2006" }}
   </li>
 {{ end }}
+{{ template "_internal/google_analytics.html" . }}
 {{ end }}
